@@ -4,11 +4,13 @@
 #include<string>
 
 using namespace std;
+class
+public:
 konversi{
 int main(int argc, char const *argv[])
 }
 
- public:
+ private:
 int nilai;
 
 
