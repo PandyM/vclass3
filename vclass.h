@@ -4,9 +4,8 @@
 #include<string>
 
 using namespace std;
-class
 public:
-konversi{
+class konversi{
 int main(int argc, char const *argv[])
 }
 
